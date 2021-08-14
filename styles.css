@@ -1,59 +1,87 @@
 body {
     background-color: rgb(224, 221, 221);
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin: 0px;
-}
-fle
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
 
-h1 {
-    text-align: center;
-    font-size: 22px;
-}
-
-
-.contenedor {
+  .header {
     background-color: white;
-    padding: 10px;
+    padding: 1px;
+    margin: 0px;
+    
+    
 }
 
 .titulo {
     background-color: white;
     text-align: center;
-    font-size: 28px;
-    font-family: "Verdana"
-        
-    
+        font-size: 28px;
+        margin: 0px;
+                          }
+
+h1 {
+    font-size: 33px;
+    text-align: center;
 }
 
 h2 {
-    text-align: left;
-    font-size: 16px;
+    float:left;
+    text-align: center;
+    font-size: 17px;
+    margin-left: 12px;
 }
 
+h3 {
+    float: right;
+    margin-right: 17px;
+    color: rgb(189, 183, 183);
+    font-size: 14px;
+}
+
+h4 {
+    margin-left: 12px;
+    text-align:left;
+    }
+
 .foto1 {
+    width: 500px;
+    height: 463px;
+    margin: auto;
     background-color: white ;
     text-align: center;
     font-size: 17px;
-    font-family: "Verdana"
-        }
+            }
 
-.foto2 {            
+.foto2 {     
+    width: 500px;
+    height: 428px;       
+    margin: auto;
     background-color: white ;
     text-align: center;
     font-size: 17px;
-    font-family: "Verdana"
-        }
+            }
 
-        .foto3 {
+ .foto3 {
+ width: 500px;
+ height: 447px;
+ margin: auto;
+ background-color: white ;
+ text-align: center;
+ font-size: 17px;
+ }
+
+ .foto4 {
+            width: 500px;
+            height: 460px;
+            margin: auto;
             background-color: white ;
             text-align: center;
             font-size: 17px;
-            font-family: "Verdana"
-                }
+                                  }
 
-        .foto4 {
-            background-color: white ;
-            text-align: center;
-            font-size: 17px;
-            font-family: "Verdana"
-                }
+.descripcion
+{ 
+    margin: 12px;
+    text-align: left;
+color:rgb(107, 105, 105)
+}
